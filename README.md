@@ -3,4 +3,4 @@ The repository consists of the experiments done in the Machine Learning for Sign
 
 - **Experiment-1:** Lossy Compression: Principal Component Analysis, Singular Value Decomposition
 - **Experiment-2:** Lossless Compression: Huffman coding, Lossless image compression and compressed file structure
-- **Experiment-3** Maximum Liklihood Estimation for Audio Classification
+- **Experiment-3:** Maximum Liklihood Estimation for Audio Classification
