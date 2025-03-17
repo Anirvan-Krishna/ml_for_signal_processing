@@ -4,3 +4,4 @@ The repository consists of the experiments done in the Machine Learning for Sign
 - **Lossy Compression:** Principal Component Analysis, Singular Value Decomposition
 - **Lossless Compression:** Huffman coding, Lossless image compression and compressed file structure
 - **Bayesian Classification:** Maximum Liklihood Estimation for Audio Classification
+- **Decision Trees and Random Forests:** Building a decision tree, Bagging, and visualization of decision boundaries
