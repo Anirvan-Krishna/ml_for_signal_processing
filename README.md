@@ -6,3 +6,5 @@ The repository consists of the experiments done in the Machine Learning for Sign
 - **Bayesian Classification:** Maximum Liklihood Estimation for Audio Classification
 - **Decision Trees and Random Forests:** Building a decision tree, Bagging, and visualization of decision boundaries
 - **Regression and Classification:** Linear SVMs (Soft and Hard Margin), Kernel SVMs, Regular and Distributed Least Square Regression, Stochastic Gradient Descent, Accelerated Gradient Descent, Convex Optimization
+- **Polynomial Regression:** Solutions using normal equations and gradient descent approaches
+  
