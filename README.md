@@ -7,4 +7,8 @@ The repository consists of the experiments done in the Machine Learning for Sign
 - **Decision Trees and Random Forests:** Building a decision tree, Bagging, and visualization of decision boundaries
 - **Regression and Classification:** Linear SVMs (Soft and Hard Margin), Kernel SVMs, Regular and Distributed Least Square Regression, Stochastic Gradient Descent, Accelerated Gradient Descent, Convex Optimization
 - **Polynomial Regression:** Solutions using normal equations and gradient descent approaches
+- **Neural Networks:** Fully connected networks in pytorch
+- **Speech Gender Recognition:** Application of NNs in classifying audio inputs as male/female using Mel and MFCC features
+
+The folders contains code, detailed LaTex report and experiment manual. External datasets wherever required are cited in the manual itself.
   
